@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTrial", "WebApiTrial\WebApiTrial.csproj", "{A0D6F5BE-B034-483D-87B5-2DE53327C306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTrial.Tests", "WebApiTrial.Tests\WebApiTrial.Tests.csproj", "{8C32C2E6-C22A-4390-ACD3-2E091DB3F0F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D6F5BE-B034-483D-87B5-2DE53327C306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D6F5BE-B034-483D-87B5-2DE53327C306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D6F5BE-B034-483D-87B5-2DE53327C306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D6F5BE-B034-483D-87B5-2DE53327C306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C32C2E6-C22A-4390-ACD3-2E091DB3F0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C32C2E6-C22A-4390-ACD3-2E091DB3F0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C32C2E6-C22A-4390-ACD3-2E091DB3F0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C32C2E6-C22A-4390-ACD3-2E091DB3F0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
